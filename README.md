@@ -11,7 +11,7 @@ Sistema de busca eficiente em Rust, utilizando **tabelas hash** para indexar e r
 - `cargo test` para testes automatizados
 
 ## 🚀 Como executar
-
+Direto no terminal execute qualquer dos comandos abaixo
 ```bash
 cargo build
 cargo run
