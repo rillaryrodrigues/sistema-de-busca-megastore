@@ -15,3 +15,4 @@ Sistema de busca eficiente em Rust, utilizando **tabelas hash** para indexar e r
 ```bash
 cargo build
 cargo run
+cargo test
